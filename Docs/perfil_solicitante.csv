@@ -1,0 +1,6 @@
+ID_Cliente,Edad,Ingreso_Declarado,Antiguedad_Laboral,Tipo_Vivienda
+CLI-1001,35,25000.0,4.5,Propia
+CLI-1002,150,18000.0,2.0,renta
+CLI-1003,28,,,Alquilada
+CLI-1004,-5,45000.0,8.0,PROPIA
+CLI-1005,42,12000.0,1.5,Hipotecada

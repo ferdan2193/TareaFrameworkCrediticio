@@ -1,0 +1,6 @@
+ID_Cliente,Edad,Ingreso_Declarado,Antiguedad_Laboral,Tipo_Vivienda,Monto_Transaccion,Moneda,Saldo_Promedio_Mensual,Frecuencia_Deposito,Score_Buro,Creditos_Activos,Mantiene_Morosidad_Previa,credito_aprobado
+CLI-1001,35,25000.0,4.5,1,1200.5,MXN,15400.0,4.0,720.0,2.0,0.0,0
+CLI-1002,0,18000.0,2.0,0,1275.0,MXN,13350.0,1.0,580.0,4.0,1.0,0
+CLI-1003,28,0.0,0.0,0,0.0,MXN,0.0,0.0,0.0,0.0,0.0,0
+CLI-1004,0,45000.0,8.0,1,0.0,,0.0,0.0,410.0,6.0,0.0,0
+CLI-1005,42,12000.0,1.5,0,0.0,,0.0,0.0,650.0,1.0,0.0,0

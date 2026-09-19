@@ -1,0 +1,23 @@
+[
+    {
+        "ID_Cliente": "CLI-1001",
+        "Monto_Transaccion": 1200.5,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 15400.0,
+        "Frecuencia_Deposito": 4
+    },
+    {
+        "ID_Cliente": "CLI-1002",
+        "Monto_Transaccion": 85.0,
+        "Moneda": "USD",
+        "Saldo_Promedio_Mensual": 890.0,
+        "Frecuencia_Deposito": 1
+    },
+    {
+        "ID_Cliente": "CLI-1003",
+        "Monto_Transaccion": null,
+        "Moneda": null,
+        "Saldo_Promedio_Mensual": null,
+        "Frecuencia_Deposito": 0
+    }
+]
