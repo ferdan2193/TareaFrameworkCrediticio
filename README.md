@@ -8,8 +8,7 @@
 Proyecto escolar: un framework en Python para construir un pipeline de
 análisis crediticio (carga de datos → validación y limpieza → preprocesamiento →
 entrenamiento → evaluación → gráficas para el reporte). El flujo completo está documentado
-en [`Docs/diagram.md`](Docs/diagram.md) y los principios de diseño del
-proyecto en [`.specify/memory/constitution.md`](.specify/memory/constitution.md).
+en [`Docs/diagram.md`](Docs/diagram.md) se usa la sintaxis mermaid.
 
 **Problema que resuelve:** decidir si se aprueba un crédito a un solicitante a partir de tres
 fuentes de datos (perfil del solicitante, historial transaccional y buró de crédito). Para eso
