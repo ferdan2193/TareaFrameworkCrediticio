@@ -19,5 +19,1181 @@
         "Moneda": null,
         "Saldo_Promedio_Mensual": null,
         "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1006",
+        "Monto_Transaccion": 450.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 5200.0,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1006",
+        "Monto_Transaccion": 980.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 5200.0,
+        "Frecuencia_Deposito": 5
+    },
+    {
+        "ID_Cliente": "CLI-1007",
+        "Monto_Transaccion": 2100.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 18500.0,
+        "Frecuencia_Deposito": 3
+    },
+    {
+        "ID_Cliente": "CLI-1008",
+        "Monto_Transaccion": 120.0,
+        "Moneda": "USD",
+        "Saldo_Promedio_Mensual": 1500.0,
+        "Frecuencia_Deposito": 2
+    },
+    {
+        "ID_Cliente": "CLI-1009",
+        "Monto_Transaccion": 3300.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 22000.0,
+        "Frecuencia_Deposito": 6
+    },
+    {
+        "ID_Cliente": "CLI-1010",
+        "Monto_Transaccion": 640.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": null,
+        "Frecuencia_Deposito": 1
+    },
+    {
+        "ID_Cliente": "CLI-1011",
+        "Monto_Transaccion": 1500.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 9800.0,
+        "Frecuencia_Deposito": 4
+    },
+    {
+        "ID_Cliente": "CLI-1012",
+        "Monto_Transaccion": 300.0,
+        "Moneda": null,
+        "Saldo_Promedio_Mensual": 2500.0,
+        "Frecuencia_Deposito": 2
+    },
+    {
+        "ID_Cliente": "CLI-1013",
+        "Monto_Transaccion": 1750.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 12000.0,
+        "Frecuencia_Deposito": 3
+    },
+    {
+        "ID_Cliente": "CLI-1014",
+        "Monto_Transaccion": 0.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 7000.0,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1015",
+        "Monto_Transaccion": 95.0,
+        "Moneda": "USD",
+        "Saldo_Promedio_Mensual": 1100.0,
+        "Frecuencia_Deposito": 4
+    },
+    {
+        "ID_Cliente": "CLI-1016",
+        "Monto_Transaccion": 1500.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 14000.0,
+        "Frecuencia_Deposito": 4
+    },
+    {
+        "ID_Cliente": "CLI-1017",
+        "Monto_Transaccion": 4200.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 35000.0,
+        "Frecuencia_Deposito": 6
+    },
+    {
+        "ID_Cliente": "CLI-1018",
+        "Monto_Transaccion": 250.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 1800.0,
+        "Frecuencia_Deposito": 1
+    },
+    {
+        "ID_Cliente": "CLI-1019",
+        "Monto_Transaccion": 2900.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 26000.0,
+        "Frecuencia_Deposito": 5
+    },
+    {
+        "ID_Cliente": "CLI-1020",
+        "Monto_Transaccion": 1100.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 9500.0,
+        "Frecuencia_Deposito": 3
+    },
+    {
+        "ID_Cliente": "CLI-1021",
+        "Monto_Transaccion": 800.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 7600.0,
+        "Frecuencia_Deposito": 2
+    },
+    {
+        "ID_Cliente": "CLI-1022",
+        "Monto_Transaccion": 60.0,
+        "Moneda": "USD",
+        "Saldo_Promedio_Mensual": 700.0,
+        "Frecuencia_Deposito": 2
+    },
+    {
+        "ID_Cliente": "CLI-1023",
+        "Monto_Transaccion": 1300.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 11000.0,
+        "Frecuencia_Deposito": 3
+    },
+    {
+        "ID_Cliente": "CLI-1024",
+        "Monto_Transaccion": 950.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 8800.0,
+        "Frecuencia_Deposito": 2
+    },
+    {
+        "ID_Cliente": "CLI-1025",
+        "Monto_Transaccion": 3800.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 30000.0,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1026",
+        "Monto_Transaccion": 1700.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 13500.0,
+        "Frecuencia_Deposito": 4
+    },
+    {
+        "ID_Cliente": "CLI-1027",
+        "Monto_Transaccion": 180.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 1200.0,
+        "Frecuencia_Deposito": 1
+    },
+    {
+        "ID_Cliente": "CLI-1029",
+        "Monto_Transaccion": 2000.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 16000.0,
+        "Frecuencia_Deposito": 3
+    },
+    {
+        "ID_Cliente": "CLI-1030",
+        "Monto_Transaccion": 2600.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 21000.0,
+        "Frecuencia_Deposito": 5
+    },
+    {
+        "ID_Cliente": "CLI-1031",
+        "Monto_Transaccion": 400.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 3500.0,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1031",
+        "Monto_Transaccion": 700.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 3500.0,
+        "Frecuencia_Deposito": 2
+    },
+    {
+        "ID_Cliente": "CLI-1032",
+        "Monto_Transaccion": 1200.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 10000.0,
+        "Frecuencia_Deposito": 2
+    },
+    {
+        "ID_Cliente": "CLI-1033",
+        "Monto_Transaccion": 50.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 300.0,
+        "Frecuencia_Deposito": 1
+    },
+    {
+        "ID_Cliente": "CLI-1034",
+        "Monto_Transaccion": 5000.0,
+        "Moneda": null,
+        "Saldo_Promedio_Mensual": 40000.0,
+        "Frecuencia_Deposito": 7
+    },
+    {
+        "ID_Cliente": "CLI-1035",
+        "Monto_Transaccion": null,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": null,
+        "Frecuencia_Deposito": 2
+    },
+    {
+        "ID_Cliente": "CLI-1036",
+        "Monto_Transaccion": 1070.45,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": null,
+        "Frecuencia_Deposito": 4
+    },
+    {
+        "ID_Cliente": "CLI-1037",
+        "Monto_Transaccion": 1955.88,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 18137.03,
+        "Frecuencia_Deposito": 5
+    },
+    {
+        "ID_Cliente": "CLI-1037",
+        "Monto_Transaccion": 2799.89,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 16157.62,
+        "Frecuencia_Deposito": 8
+    },
+    {
+        "ID_Cliente": "CLI-1037",
+        "Monto_Transaccion": 4335.82,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 23328.89,
+        "Frecuencia_Deposito": 4
+    },
+    {
+        "ID_Cliente": "CLI-1039",
+        "Monto_Transaccion": 2507.98,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 15185.38,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1039",
+        "Monto_Transaccion": 2874.68,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 6966.45,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1039",
+        "Monto_Transaccion": 127.93,
+        "Moneda": "USD",
+        "Saldo_Promedio_Mensual": 974.14,
+        "Frecuencia_Deposito": 5
+    },
+    {
+        "ID_Cliente": "CLI-1040",
+        "Monto_Transaccion": 98.3,
+        "Moneda": "USD",
+        "Saldo_Promedio_Mensual": 1242.03,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1041",
+        "Monto_Transaccion": 2351.28,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 15225.15,
+        "Frecuencia_Deposito": 7
+    },
+    {
+        "ID_Cliente": "CLI-1042",
+        "Monto_Transaccion": 3395.93,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 17927.57,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1043",
+        "Monto_Transaccion": 732.99,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 17944.5,
+        "Frecuencia_Deposito": 7
+    },
+    {
+        "ID_Cliente": "CLI-1044",
+        "Monto_Transaccion": 2013.86,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 7269.87,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1044",
+        "Monto_Transaccion": 185.51,
+        "Moneda": "USD",
+        "Saldo_Promedio_Mensual": 600.86,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1045",
+        "Monto_Transaccion": 2001.57,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 12804.14,
+        "Frecuencia_Deposito": 8
+    },
+    {
+        "ID_Cliente": "CLI-1046",
+        "Monto_Transaccion": 1730.5,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 18505.87,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1047",
+        "Monto_Transaccion": 507.19,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 1237.66,
+        "Frecuencia_Deposito": 6
+    },
+    {
+        "ID_Cliente": "CLI-1047",
+        "Monto_Transaccion": 1331.19,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 6897.61,
+        "Frecuencia_Deposito": 3
+    },
+    {
+        "ID_Cliente": "CLI-1048",
+        "Monto_Transaccion": 32.66,
+        "Moneda": "USD",
+        "Saldo_Promedio_Mensual": 277.17,
+        "Frecuencia_Deposito": 5
+    },
+    {
+        "ID_Cliente": "CLI-1049",
+        "Monto_Transaccion": null,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 1862.62,
+        "Frecuencia_Deposito": 8
+    },
+    {
+        "ID_Cliente": "CLI-1049",
+        "Monto_Transaccion": 1569.88,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 7190.23,
+        "Frecuencia_Deposito": 2
+    },
+    {
+        "ID_Cliente": "CLI-1049",
+        "Monto_Transaccion": 101.91,
+        "Moneda": "USD",
+        "Saldo_Promedio_Mensual": 1121.86,
+        "Frecuencia_Deposito": 6
+    },
+    {
+        "ID_Cliente": "CLI-1050",
+        "Monto_Transaccion": 1551.69,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 15156.8,
+        "Frecuencia_Deposito": 6
+    },
+    {
+        "ID_Cliente": "CLI-1051",
+        "Monto_Transaccion": 2942.11,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 12450.49,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1052",
+        "Monto_Transaccion": 823.75,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 11011.23,
+        "Frecuencia_Deposito": 7
+    },
+    {
+        "ID_Cliente": "CLI-1052",
+        "Monto_Transaccion": 522.79,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 10757.24,
+        "Frecuencia_Deposito": 1
+    },
+    {
+        "ID_Cliente": "CLI-1054",
+        "Monto_Transaccion": 3024.73,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 17337.08,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1054",
+        "Monto_Transaccion": 1728.47,
+        "Moneda": null,
+        "Saldo_Promedio_Mensual": 13673.46,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1054",
+        "Monto_Transaccion": 841.88,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 13874.0,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1055",
+        "Monto_Transaccion": 2302.09,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 21666.83,
+        "Frecuencia_Deposito": 5
+    },
+    {
+        "ID_Cliente": "CLI-1056",
+        "Monto_Transaccion": 1073.26,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 13398.63,
+        "Frecuencia_Deposito": 3
+    },
+    {
+        "ID_Cliente": "CLI-1057",
+        "Monto_Transaccion": 1074.61,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 15439.91,
+        "Frecuencia_Deposito": 7
+    },
+    {
+        "ID_Cliente": "CLI-1058",
+        "Monto_Transaccion": 687.42,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 14661.81,
+        "Frecuencia_Deposito": 4
+    },
+    {
+        "ID_Cliente": "CLI-1058",
+        "Monto_Transaccion": 730.12,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 300.0,
+        "Frecuencia_Deposito": 8
+    },
+    {
+        "ID_Cliente": "CLI-1058",
+        "Monto_Transaccion": 87.84,
+        "Moneda": "USD",
+        "Saldo_Promedio_Mensual": 118.36,
+        "Frecuencia_Deposito": 2
+    },
+    {
+        "ID_Cliente": "CLI-1059",
+        "Monto_Transaccion": 1859.82,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 5102.32,
+        "Frecuencia_Deposito": 7
+    },
+    {
+        "ID_Cliente": "CLI-1059",
+        "Monto_Transaccion": 1673.49,
+        "Moneda": null,
+        "Saldo_Promedio_Mensual": 300.0,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1060",
+        "Monto_Transaccion": 464.61,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 14665.71,
+        "Frecuencia_Deposito": 7
+    },
+    {
+        "ID_Cliente": "CLI-1060",
+        "Monto_Transaccion": 500.98,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 15501.55,
+        "Frecuencia_Deposito": 2
+    },
+    {
+        "ID_Cliente": "CLI-1061",
+        "Monto_Transaccion": 3.33,
+        "Moneda": "USD",
+        "Saldo_Promedio_Mensual": 1084.31,
+        "Frecuencia_Deposito": 5
+    },
+    {
+        "ID_Cliente": "CLI-1062",
+        "Monto_Transaccion": 1980.88,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 17363.16,
+        "Frecuencia_Deposito": 3
+    },
+    {
+        "ID_Cliente": "CLI-1063",
+        "Monto_Transaccion": 591.04,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 18413.68,
+        "Frecuencia_Deposito": 4
+    },
+    {
+        "ID_Cliente": "CLI-1064",
+        "Monto_Transaccion": 467.02,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 12341.64,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1065",
+        "Monto_Transaccion": 1884.33,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 3070.29,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1065",
+        "Monto_Transaccion": 1221.28,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 17644.82,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1066",
+        "Monto_Transaccion": 2232.8,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 18332.74,
+        "Frecuencia_Deposito": 1
+    },
+    {
+        "ID_Cliente": "CLI-1067",
+        "Monto_Transaccion": 1125.93,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 12833.4,
+        "Frecuencia_Deposito": 6
+    },
+    {
+        "ID_Cliente": "CLI-1068",
+        "Monto_Transaccion": 77.64,
+        "Moneda": "USD",
+        "Saldo_Promedio_Mensual": 1435.99,
+        "Frecuencia_Deposito": 4
+    },
+    {
+        "ID_Cliente": "CLI-1069",
+        "Monto_Transaccion": 1370.58,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 1753.36,
+        "Frecuencia_Deposito": 7
+    },
+    {
+        "ID_Cliente": "CLI-1070",
+        "Monto_Transaccion": 1764.9,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 19855.71,
+        "Frecuencia_Deposito": 1
+    },
+    {
+        "ID_Cliente": "CLI-1071",
+        "Monto_Transaccion": null,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 26279.07,
+        "Frecuencia_Deposito": 3
+    },
+    {
+        "ID_Cliente": "CLI-1072",
+        "Monto_Transaccion": 3.33,
+        "Moneda": "USD",
+        "Saldo_Promedio_Mensual": 795.04,
+        "Frecuencia_Deposito": 3
+    },
+    {
+        "ID_Cliente": "CLI-1073",
+        "Monto_Transaccion": 1088.36,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 17207.26,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1074",
+        "Monto_Transaccion": 2271.86,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 7192.92,
+        "Frecuencia_Deposito": 6
+    },
+    {
+        "ID_Cliente": "CLI-1074",
+        "Monto_Transaccion": 97.33,
+        "Moneda": "USD",
+        "Saldo_Promedio_Mensual": 692.85,
+        "Frecuencia_Deposito": 6
+    },
+    {
+        "ID_Cliente": "CLI-1075",
+        "Monto_Transaccion": 2303.24,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 13630.71,
+        "Frecuencia_Deposito": 4
+    },
+    {
+        "ID_Cliente": "CLI-1076",
+        "Monto_Transaccion": 1431.08,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 5545.22,
+        "Frecuencia_Deposito": 1
+    },
+    {
+        "ID_Cliente": "CLI-1077",
+        "Monto_Transaccion": 1544.38,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 10456.91,
+        "Frecuencia_Deposito": 2
+    },
+    {
+        "ID_Cliente": "CLI-1077",
+        "Monto_Transaccion": 2401.34,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 21330.42,
+        "Frecuencia_Deposito": 5
+    },
+    {
+        "ID_Cliente": "CLI-1077",
+        "Monto_Transaccion": 2344.19,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 15952.93,
+        "Frecuencia_Deposito": 6
+    },
+    {
+        "ID_Cliente": "CLI-1078",
+        "Monto_Transaccion": 821.14,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 7466.11,
+        "Frecuencia_Deposito": 1
+    },
+    {
+        "ID_Cliente": "CLI-1079",
+        "Monto_Transaccion": 1407.34,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 10998.21,
+        "Frecuencia_Deposito": 5
+    },
+    {
+        "ID_Cliente": "CLI-1079",
+        "Monto_Transaccion": 50.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 12164.33,
+        "Frecuencia_Deposito": 7
+    },
+    {
+        "ID_Cliente": "CLI-1080",
+        "Monto_Transaccion": 2623.74,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 24107.49,
+        "Frecuencia_Deposito": 6
+    },
+    {
+        "ID_Cliente": "CLI-1081",
+        "Monto_Transaccion": 1444.23,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 13398.21,
+        "Frecuencia_Deposito": 8
+    },
+    {
+        "ID_Cliente": "CLI-1081",
+        "Monto_Transaccion": 50.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 5664.5,
+        "Frecuencia_Deposito": 3
+    },
+    {
+        "ID_Cliente": "CLI-1081",
+        "Monto_Transaccion": 3687.92,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 12642.74,
+        "Frecuencia_Deposito": 5
+    },
+    {
+        "ID_Cliente": "CLI-1082",
+        "Monto_Transaccion": 962.81,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 15930.96,
+        "Frecuencia_Deposito": 8
+    },
+    {
+        "ID_Cliente": "CLI-1083",
+        "Monto_Transaccion": 1080.14,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 20384.28,
+        "Frecuencia_Deposito": 8
+    },
+    {
+        "ID_Cliente": "CLI-1084",
+        "Monto_Transaccion": 2129.79,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 7448.78,
+        "Frecuencia_Deposito": 2
+    },
+    {
+        "ID_Cliente": "CLI-1084",
+        "Monto_Transaccion": 1238.26,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 10348.23,
+        "Frecuencia_Deposito": 5
+    },
+    {
+        "ID_Cliente": "CLI-1085",
+        "Monto_Transaccion": 742.05,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 10881.08,
+        "Frecuencia_Deposito": 2
+    },
+    {
+        "ID_Cliente": "CLI-1086",
+        "Monto_Transaccion": 567.98,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 16105.84,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1086",
+        "Monto_Transaccion": 1258.65,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 21853.85,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1087",
+        "Monto_Transaccion": 1612.1,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 5745.15,
+        "Frecuencia_Deposito": 2
+    },
+    {
+        "ID_Cliente": "CLI-1088",
+        "Monto_Transaccion": 1401.66,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 11394.55,
+        "Frecuencia_Deposito": 7
+    },
+    {
+        "ID_Cliente": "CLI-1089",
+        "Monto_Transaccion": 2860.99,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 16776.02,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1090",
+        "Monto_Transaccion": 1407.4,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 18122.46,
+        "Frecuencia_Deposito": 7
+    },
+    {
+        "ID_Cliente": "CLI-1091",
+        "Monto_Transaccion": 1800.24,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 16038.4,
+        "Frecuencia_Deposito": 6
+    },
+    {
+        "ID_Cliente": "CLI-1092",
+        "Monto_Transaccion": 5.2,
+        "Moneda": "USD",
+        "Saldo_Promedio_Mensual": 1175.34,
+        "Frecuencia_Deposito": 5
+    },
+    {
+        "ID_Cliente": "CLI-1092",
+        "Monto_Transaccion": 1192.99,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 12467.47,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1093",
+        "Monto_Transaccion": 1712.45,
+        "Moneda": null,
+        "Saldo_Promedio_Mensual": 21926.95,
+        "Frecuencia_Deposito": 8
+    },
+    {
+        "ID_Cliente": "CLI-1093",
+        "Monto_Transaccion": 1282.98,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 12646.57,
+        "Frecuencia_Deposito": 8
+    },
+    {
+        "ID_Cliente": "CLI-1094",
+        "Monto_Transaccion": 1759.42,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 19048.58,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1095",
+        "Monto_Transaccion": 2333.17,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 7446.73,
+        "Frecuencia_Deposito": 4
+    },
+    {
+        "ID_Cliente": "CLI-1096",
+        "Monto_Transaccion": 2348.27,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 12918.29,
+        "Frecuencia_Deposito": 1
+    },
+    {
+        "ID_Cliente": "CLI-1097",
+        "Monto_Transaccion": 233.32,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 19284.28,
+        "Frecuencia_Deposito": 2
+    },
+    {
+        "ID_Cliente": "CLI-1098",
+        "Monto_Transaccion": 1460.37,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 24943.01,
+        "Frecuencia_Deposito": 4
+    },
+    {
+        "ID_Cliente": "CLI-1098",
+        "Monto_Transaccion": 1134.99,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 13434.27,
+        "Frecuencia_Deposito": 1
+    },
+    {
+        "ID_Cliente": "CLI-1100",
+        "Monto_Transaccion": 2584.88,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 13972.13,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1100",
+        "Monto_Transaccion": 1787.69,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 7726.98,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1101",
+        "Monto_Transaccion": 1691.03,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 15251.91,
+        "Frecuencia_Deposito": 6
+    },
+    {
+        "ID_Cliente": "CLI-1102",
+        "Monto_Transaccion": 604.08,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 14826.96,
+        "Frecuencia_Deposito": 2
+    },
+    {
+        "ID_Cliente": "CLI-1103",
+        "Monto_Transaccion": 858.02,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 5158.21,
+        "Frecuencia_Deposito": 7
+    },
+    {
+        "ID_Cliente": "CLI-1104",
+        "Monto_Transaccion": 38.52,
+        "Moneda": "USD",
+        "Saldo_Promedio_Mensual": 427.21,
+        "Frecuencia_Deposito": 4
+    },
+    {
+        "ID_Cliente": "CLI-1105",
+        "Monto_Transaccion": 228.94,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 14617.11,
+        "Frecuencia_Deposito": 4
+    },
+    {
+        "ID_Cliente": "CLI-1106",
+        "Monto_Transaccion": 39.49,
+        "Moneda": "USD",
+        "Saldo_Promedio_Mensual": 1620.1,
+        "Frecuencia_Deposito": 7
+    },
+    {
+        "ID_Cliente": "CLI-1107",
+        "Monto_Transaccion": 649.23,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 12557.93,
+        "Frecuencia_Deposito": 3
+    },
+    {
+        "ID_Cliente": "CLI-1107",
+        "Monto_Transaccion": 98.13,
+        "Moneda": "USD",
+        "Saldo_Promedio_Mensual": 1419.4,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1107",
+        "Monto_Transaccion": 123.53,
+        "Moneda": "USD",
+        "Saldo_Promedio_Mensual": 20.0,
+        "Frecuencia_Deposito": 2
+    },
+    {
+        "ID_Cliente": "CLI-1108",
+        "Monto_Transaccion": 182.0,
+        "Moneda": "USD",
+        "Saldo_Promedio_Mensual": 1197.53,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1109",
+        "Monto_Transaccion": 1578.5,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 9084.94,
+        "Frecuencia_Deposito": 8
+    },
+    {
+        "ID_Cliente": "CLI-1109",
+        "Monto_Transaccion": 3552.69,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 2793.37,
+        "Frecuencia_Deposito": 3
+    },
+    {
+        "ID_Cliente": "CLI-1110",
+        "Monto_Transaccion": 2098.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 17841.38,
+        "Frecuencia_Deposito": 4
+    },
+    {
+        "ID_Cliente": "CLI-1111",
+        "Monto_Transaccion": 1260.04,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 9901.71,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1111",
+        "Monto_Transaccion": 50.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 17000.19,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1111",
+        "Monto_Transaccion": 1106.84,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 11782.92,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1112",
+        "Monto_Transaccion": 1711.83,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 300.0,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1113",
+        "Monto_Transaccion": 3056.34,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 6599.62,
+        "Frecuencia_Deposito": 3
+    },
+    {
+        "ID_Cliente": "CLI-1113",
+        "Monto_Transaccion": 1154.49,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 16915.2,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1114",
+        "Monto_Transaccion": null,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 12317.23,
+        "Frecuencia_Deposito": 6
+    },
+    {
+        "ID_Cliente": "CLI-1115",
+        "Monto_Transaccion": 1838.91,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 18035.09,
+        "Frecuencia_Deposito": 3
+    },
+    {
+        "ID_Cliente": "CLI-1115",
+        "Monto_Transaccion": 2380.88,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 10995.81,
+        "Frecuencia_Deposito": 7
+    },
+    {
+        "ID_Cliente": "CLI-1116",
+        "Monto_Transaccion": 546.45,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 6927.51,
+        "Frecuencia_Deposito": 6
+    },
+    {
+        "ID_Cliente": "CLI-1117",
+        "Monto_Transaccion": 56.24,
+        "Moneda": "USD",
+        "Saldo_Promedio_Mensual": 423.05,
+        "Frecuencia_Deposito": 2
+    },
+    {
+        "ID_Cliente": "CLI-1117",
+        "Monto_Transaccion": 2409.04,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 8716.77,
+        "Frecuencia_Deposito": 4
+    },
+    {
+        "ID_Cliente": "CLI-1119",
+        "Monto_Transaccion": 2880.59,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 8948.8,
+        "Frecuencia_Deposito": 2
+    },
+    {
+        "ID_Cliente": "CLI-1120",
+        "Monto_Transaccion": null,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 20358.91,
+        "Frecuencia_Deposito": 2
+    },
+    {
+        "ID_Cliente": "CLI-1121",
+        "Monto_Transaccion": 50.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 13243.36,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1121",
+        "Monto_Transaccion": 2131.62,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 11614.71,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1121",
+        "Monto_Transaccion": 1115.73,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 13155.83,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1122",
+        "Monto_Transaccion": 2110.62,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 10813.99,
+        "Frecuencia_Deposito": 1
+    },
+    {
+        "ID_Cliente": "CLI-1123",
+        "Monto_Transaccion": 1263.77,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 7660.84,
+        "Frecuencia_Deposito": 6
+    },
+    {
+        "ID_Cliente": "CLI-1124",
+        "Monto_Transaccion": 1483.52,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 21655.62,
+        "Frecuencia_Deposito": 2
+    },
+    {
+        "ID_Cliente": "CLI-1125",
+        "Monto_Transaccion": 50.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 19972.97,
+        "Frecuencia_Deposito": 3
+    },
+    {
+        "ID_Cliente": "CLI-1126",
+        "Monto_Transaccion": 1251.66,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 15047.49,
+        "Frecuencia_Deposito": 5
+    },
+    {
+        "ID_Cliente": "CLI-1126",
+        "Monto_Transaccion": 1750.37,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 26578.68,
+        "Frecuencia_Deposito": 3
+    },
+    {
+        "ID_Cliente": "CLI-1126",
+        "Monto_Transaccion": 1063.41,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 11529.73,
+        "Frecuencia_Deposito": 1
+    },
+    {
+        "ID_Cliente": "CLI-1127",
+        "Monto_Transaccion": 1414.04,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 15120.64,
+        "Frecuencia_Deposito": 1
+    },
+    {
+        "ID_Cliente": "CLI-1128",
+        "Monto_Transaccion": 1674.82,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 14949.56,
+        "Frecuencia_Deposito": 5
+    },
+    {
+        "ID_Cliente": "CLI-1128",
+        "Monto_Transaccion": 1443.14,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 10720.79,
+        "Frecuencia_Deposito": 4
+    },
+    {
+        "ID_Cliente": "CLI-1129",
+        "Monto_Transaccion": 2125.71,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 4918.0,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1130",
+        "Monto_Transaccion": 789.1,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 15456.39,
+        "Frecuencia_Deposito": 5
+    },
+    {
+        "ID_Cliente": "CLI-1131",
+        "Monto_Transaccion": 1558.21,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 8414.07,
+        "Frecuencia_Deposito": 4
+    },
+    {
+        "ID_Cliente": "CLI-1132",
+        "Monto_Transaccion": 1043.31,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 20009.62,
+        "Frecuencia_Deposito": 3
+    },
+    {
+        "ID_Cliente": "CLI-1133",
+        "Monto_Transaccion": 1089.75,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 9607.39,
+        "Frecuencia_Deposito": 1
+    },
+    {
+        "ID_Cliente": "CLI-1134",
+        "Monto_Transaccion": 50.0,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 11276.8,
+        "Frecuencia_Deposito": 0
+    },
+    {
+        "ID_Cliente": "CLI-1135",
+        "Monto_Transaccion": 464.03,
+        "Moneda": "MXN",
+        "Saldo_Promedio_Mensual": 26469.45,
+        "Frecuencia_Deposito": 0
     }
 ]

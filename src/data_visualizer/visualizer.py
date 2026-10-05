@@ -28,7 +28,8 @@ class DataVisualizer:
 
         Returns:
             Una `Figure` de matplotlib con una tabla que muestra todas las
-            filas y columnas de `df`. Si `df` está vacío, la tabla solo
+            filas y columnas de `df`. Los valores faltantes (`NaN`/`None`)
+            se muestran como `"ND"`. Si `df` está vacío, la tabla solo
             muestra los encabezados, sin lanzar ningún error.
         """
         fig, ax = plt.subplots()
@@ -47,7 +48,7 @@ class DataVisualizer:
             ax.add_table(tabla)
         else:
             ax.table(
-                cellText=df.astype(str).values.tolist(),
+                cellText=df.astype(object).where(df.notna(), "ND").astype(str).values.tolist(),
                 colLabels=columnas,
                 loc="center",
             )

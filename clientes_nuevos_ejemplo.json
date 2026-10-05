@@ -1,0 +1,25 @@
+[
+    {
+        "ID_Cliente": "NUEVO-001",
+        "perfil": {"Edad": 35, "Ingreso_Declarado": 32000, "Antiguedad_Laboral": 6, "Tipo_Vivienda": "Propia"},
+        "historial": [
+            {"Monto_Transaccion": 1800, "Moneda": "MXN", "Saldo_Promedio_Mensual": 16000, "Frecuencia_Deposito": 5},
+            {"Monto_Transaccion": 950, "Moneda": "MXN", "Saldo_Promedio_Mensual": 16000, "Frecuencia_Deposito": 3}
+        ],
+        "buro": {"Score_Buro": 720, "Creditos_Activos": 1, "Mantiene_Morosidad_Previa": "NO"}
+    },
+    {
+        "ID_Cliente": "NUEVO-002",
+        "perfil": {"Edad": 52, "Ingreso_Declarado": 18000, "Antiguedad_Laboral": 20, "Tipo_Vivienda": "Rentada"},
+        "historial": [
+            {"Monto_Transaccion": 90, "Moneda": "USD", "Saldo_Promedio_Mensual": 600, "Frecuencia_Deposito": 1}
+        ],
+        "buro": {"Score_Buro": 560, "Creditos_Activos": 5, "Mantiene_Morosidad_Previa": "SI"}
+    },
+    {
+        "ID_Cliente": "NUEVO-003",
+        "perfil": {"Edad": 27, "Tipo_Vivienda": "Alquilada"},
+        "historial": [],
+        "buro": {"Score_Buro": 650, "Creditos_Activos": 2, "Mantiene_Morosidad_Previa": "No"}
+    }
+]
